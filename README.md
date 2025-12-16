@@ -63,7 +63,7 @@ Redis — это высокопроизводительная **in-memory баз
 
 **Запрос `SET`:**
 
-<img width="1369" height="569" alt="image" src="https://github.com/user-attachments/assets/7229d60b-322c-4ee8-aa7c-c81b4459ed84" />
+<img width="1369" height="569" alt="image" src="https://github.com/user-attachments/assets/99a8a837-f55c-4704-b370-423789659c7f" />
 
 **Запрос `GET`:**
 
